@@ -3,12 +3,12 @@ Radio streams that can be scrobbled by last.fm. I use an app [Radium](http://cat
 
 ## Radio Scrobbling Apps
 #### Mac
-Radium - http://catpigstudios.com
+- Radium - http://catpigstudios.com
 
 #### Windows
 
 #### iOS
-Radium - http://catpigstudios.com
+- Radium - http://catpigstudios.com
 
 #### Android
 - Replaio - https://play.google.com/store/apps/details?id=com.hv.replaio
