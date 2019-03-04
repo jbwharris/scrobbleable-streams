@@ -1,6 +1,17 @@
 # scrobbleable-streams
-Radio streams that can be scrobbled by last.fm
+Radio streams that can be scrobbled by last.fm. I use an app [Radium](http://catpigstudios.com) for Mac and iOS. 
 
+## Radio Scrobbling Apps
+#### Mac
+Radium - http://catpigstudios.com
+
+#### Windows
+
+#### iOS
+Radium - http://catpigstudios.com
+
+#### Android
+- Replaio - https://play.google.com/store/apps/details?id=com.hv.replaio
 
 ## SomaFM Streams
 
