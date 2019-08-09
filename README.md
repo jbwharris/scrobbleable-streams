@@ -55,6 +55,3 @@ Radio streams that can be scrobbled by last.fm. I use an app [Radium](http://cat
 ## Eclectic Stations
 - Resonance FM (London, UK) - http://stream.resonance.fm:8000/resonance-extra.m3u
 - Gorilla FM - http://sc-gorillafm.1.fm:10020/
-
-## 2000s
-- 
