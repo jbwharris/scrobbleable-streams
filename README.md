@@ -46,3 +46,15 @@ Radio streams that can be scrobbled by last.fm. I use an app [Radium](http://cat
  - SF 10-33 - http://somafm.com/sf1033.pls
  - Doomed - http://somafm.com/doomed.pls
  - Covers - http://somafm.com/covers.pls
+
+## Indie Stations
+- WFUV (Bronx, NY) - http://www.wfuv.org/sites/all/files/streams/wfuvmp3high.pls
+- 88.7 The Bay (Huntsville, ON) - http://209.91.175.158:8000/
+- WFMU - http://stream0.wfmu.org/freeform-best-available
+
+## Eclectic Stations
+- Resonance FM (London, UK) - http://stream.resonance.fm:8000/resonance-extra.m3u
+- Gorilla FM - http://sc-gorillafm.1.fm:10020/
+
+## 2000s
+- 
