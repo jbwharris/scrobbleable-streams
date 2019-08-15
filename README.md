@@ -14,12 +14,13 @@ Radio streams that can be scrobbled by last.fm. I use an app [Radium](http://cat
 - Replaio - https://play.google.com/store/apps/details?id=com.hv.replaio
 - Pano Scrobbler - https://play.google.com/store/apps/details?id=com.arn.scrobble&hl=en_KR
 
-
 ## Indie Stations
 - WFUV (Bronx, NY) - http://www.wfuv.org/sites/all/files/streams/wfuvmp3high.pls
 - 88.7 The Bay (Huntsville, ON) - http://209.91.175.158:8000/
 - WFMU (Jersey City, NJ) - http://stream0.wfmu.org/freeform-best-available
-- WERS (Boston, MA): http://marconi.emerson.edu:8000/wers
+- WERS (Boston, MA) - http://marconi.emerson.edu:8000/wers
+- WITR (Rochester, NY) - http://streaming.witr.rit.edu:8000/witr-mp3-192.m3u
+- Radio X (Manchester, UK) - http://vis.media-ice.musicradio.com/RadioXManchesterMP3
 
 ## Eclectic Stations
 - Resonance FM (London, UK) - http://stream.resonance.fm:8000/resonance-extra.m3u
