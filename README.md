@@ -103,82 +103,82 @@ I listen to a few of these stations, but all the Big R Radio stations scrobble w
 
 ## 181.fm Stations 
 ### Oldies
-Classic Hits 181 - http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
-Good Time Oldies - http://listen.livestreamingservice.com/181-goodtime_128k.mp3
-Mellow Gold - http://listen.livestreamingservice.com/181-mellow_128k.mp3
-Soul - http://listen.livestreamingservice.com/181-soul_128k.mp3
-Beatles - http://listen.livestreamingservice.com/181-beatles_128k.mp3
-Super 70s - http://listen.livestreamingservice.com/181-70s_128k.mp3
+- Classic Hits 181 - http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
+- Good Time Oldies - http://listen.livestreamingservice.com/181-goodtime_128k.mp3
+- Mellow Gold - http://listen.livestreamingservice.com/181-mellow_128k.mp3
+- Soul - http://listen.livestreamingservice.com/181-soul_128k.mp3
+- Beatles - http://listen.livestreamingservice.com/181-beatles_128k.mp3
+- Super 70s - http://listen.livestreamingservice.com/181-70s_128k.mp3
 
 ### 80's Decade
-Awesome 80's - http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
-Lite 80's - http://listen.livestreamingservice.com/181-lite80s_128k.mp3
-80's Country - http://listen.livestreamingservice.com/181-80scountry_128k.mp3
-80's RnB - http://listen.livestreamingservice.com/181-80srnb_128k.mp3
-80's Lite RnB - http://listen.livestreamingservice.com/181-80sliternb_128k.mp3
+- Awesome 80's - http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
+- Lite 80's - http://listen.livestreamingservice.com/181-lite80s_128k.mp3
+- 80's Country - http://listen.livestreamingservice.com/181-80scountry_128k.mp3
+- 80's RnB - http://listen.livestreamingservice.com/181-80srnb_128k.mp3
+- 80's Lite RnB - http://listen.livestreamingservice.com/181-80sliternb_128k.mp3
 
 ### 90's Decade
-Star 90's - http://listen.livestreamingservice.com/181-star90s_128k.mp3
-90's Country - http://listen.livestreamingservice.com/181-90scountry_128k.mp3
-Lite 90's - http://listen.livestreamingservice.com/181-lite90s_128k.mp3
-90's Alternative - http://listen.livestreamingservice.com/181-90salt_128k.mp3
-90's Dance - http://listen.livestreamingservice.com/181-90sdance_128k.mp3
+- Star 90's - http://listen.livestreamingservice.com/181-star90s_128k.mp3
+- 90's Country - http://listen.livestreamingservice.com/181-90scountry_128k.mp3
+- Lite 90's - http://listen.livestreamingservice.com/181-lite90s_128k.mp3
+- 90's Alternative - http://listen.livestreamingservice.com/181-90salt_128k.mp3
+- 90's Dance - http://listen.livestreamingservice.com/181-90sdance_128k.mp3
 
 ### Pop
-Power 181 (Top 40) - http://listen.livestreamingservice.com/181-power_128k.mp3
-Power 181 [E] - http://listen.livestreamingservice.com/181-powerexplicit_128k.mp3
-The Office - http://listen.livestreamingservice.com/181-office_128k.mp3
-The Mix - http://listen.livestreamingservice.com/181-mix_128k.mp3
-Party 181 - http://listen.livestreamingservice.com/181-party_128k.mp3
-The Point - http://listen.livestreamingservice.com/181-point_128k.mp3
-Old School HipHop/RnB - http://listen.livestreamingservice.com/181-oldschool_128k.mp3
-Smooth AC - http://listen.livestreamingservice.com/181-smoothac_128k.mp3
-UK top 40 - http://listen.livestreamingservice.com/181-uktop40_128k.mp3
-The Heart (Love Songs) - http://listen.livestreamingservice.com/181-heart_128k.mp3
-The Vibe of Vegas - http://listen.livestreamingservice.com/181-vibe_128k.mp3
+- Power 181 (Top 40) - http://listen.livestreamingservice.com/181-power_128k.mp3
+- Power 181 [E] - http://listen.livestreamingservice.com/181-powerexplicit_128k.mp3
+- The Office - http://listen.livestreamingservice.com/181-office_128k.mp3
+- The Mix - http://listen.livestreamingservice.com/181-mix_128k.mp3
+- Party 181 - http://listen.livestreamingservice.com/181-party_128k.mp3
+- The Point - http://listen.livestreamingservice.com/181-point_128k.mp3
+- Old School HipHop/RnB - http://listen.livestreamingservice.com/181-oldschool_128k.mp3
+- Smooth AC - http://listen.livestreamingservice.com/181-smoothac_128k.mp3
+- UK top 40 - http://listen.livestreamingservice.com/181-uktop40_128k.mp3
+- The Heart (Love Songs) - http://listen.livestreamingservice.com/181-heart_128k.mp3
+- The Vibe of Vegas - http://listen.livestreamingservice.com/181-vibe_128k.mp3
 
 ### Rock Channels
-The Buzz (Alt. Rock) - http://listen.livestreamingservice.com/181-buzz_128k.mp3
-Classic Buzz (Alt) - http://listen.livestreamingservice.com/181-classicbuzz_128k.mp3
-The Eagle (Classic) - http://listen.livestreamingservice.com/181-eagle_128k.mp3
-Rock 181 - http://listen.livestreamingservice.com/181-rock_128k.mp3
-Rock 40 (Rock & Roll) - http://listen.livestreamingservice.com/181-rock40_128k.mp3
-80's Hairband - http://listen.livestreamingservice.com/181-hairband_128k.mp3
-Yacht Rock - http://listen.livestreamingservice.com/181-yachtrock_128k.mp3
-Chloe @181.FM - http://listen.livestreamingservice.com/181-chloe_128k.mp3
-The Point - http://listen.livestreamingservice.com/181-point_128k.mp3
-The Rock! (Hard Rock) - http://listen.livestreamingservice.com/181-hardrock_128k.mp3
+- The Buzz (Alt. Rock) - http://listen.livestreamingservice.com/181-buzz_128k.mp3
+- Classic Buzz (Alt) - http://listen.livestreamingservice.com/181-classicbuzz_128k.mp3
+- The Eagle (Classic) - http://listen.livestreamingservice.com/181-eagle_128k.mp3
+- Rock 181 - http://listen.livestreamingservice.com/181-rock_128k.mp3
+- Rock 40 (Rock & Roll) - http://listen.livestreamingservice.com/181-rock40_128k.mp3
+- 80's Hairband - http://listen.livestreamingservice.com/181-hairband_128k.mp3
+- Yacht Rock - http://listen.livestreamingservice.com/181-yachtrock_128k.mp3
+- Chloe @181.FM - http://listen.livestreamingservice.com/181-chloe_128k.mp3
+- The Point - http://listen.livestreamingservice.com/181-point_128k.mp3
+- The Rock! (Hard Rock) - http://listen.livestreamingservice.com/181-hardrock_128k.mp3
 
 ### Urban
-The Beat (HipHop/R&B) - http://listen.livestreamingservice.com/181-beat_128k.mp3
-The Box (Urban) - http://listen.livestreamingservice.com/181-thebox_128k.mp3
-True R&B - http://listen.livestreamingservice.com/181-rnb_128k.mp3
-Soul - http://listen.livestreamingservice.com/181-soul_128k.mp3
-Jammin 181 - http://listen.livestreamingservice.com/181-jammin_128k.mp3
-80's RnB - http://listen.livestreamingservice.com/181-80srnb_128k.mp3
-80's Lite RnB - http://listen.livestreamingservice.com/181-80sliternb_128k.mp3
-Old School HipHop/RnB - http://listen.livestreamingservice.com/181-oldschool_128k.mp3
+- The Beat (HipHop/R&B) - http://listen.livestreamingservice.com/181-beat_128k.mp3
+- The Box (Urban) - http://listen.livestreamingservice.com/181-thebox_128k.mp3
+- True R&B - http://listen.livestreamingservice.com/181-rnb_128k.mp3
+- Soul - http://listen.livestreamingservice.com/181-soul_128k.mp3
+- Jammin 181 - http://listen.livestreamingservice.com/181-jammin_128k.mp3
+- 80's RnB - http://listen.livestreamingservice.com/181-80srnb_128k.mp3
+- 80's Lite RnB - http://listen.livestreamingservice.com/181-80sliternb_128k.mp3
+- Old School HipHop/RnB - http://listen.livestreamingservice.com/181-oldschool_128k.mp3
 
 ### Dance / Techno
-Energy 98 - http://listen.livestreamingservice.com/181-energy98_128k.mp3
-Chilled Out - http://listen.livestreamingservice.com/181-chilled_128k.mp3
-Energy 93 (Euro EDM) - http://listen.livestreamingservice.com/181-energy93_128k.mp3
-Studio 181 - http://listen.livestreamingservice.com/181-ball_128k.mp3
-The Vibe of Vegas - http://listen.livestreamingservice.com/181-vibe_128k.mp3
-90's Dance - http://listen.livestreamingservice.com/181-90sdance_128k.mp3
-Techno Club - http://listen.livestreamingservice.com/181-technoclub_128k.mp3
+- Energy 98 - http://listen.livestreamingservice.com/181-energy98_128k.mp3
+- Chilled Out - http://listen.livestreamingservice.com/181-chilled_128k.mp3
+- Energy 93 (Euro EDM) - http://listen.livestreamingservice.com/181-energy93_128k.mp3
+- Studio 181 - http://listen.livestreamingservice.com/181-ball_128k.mp3
+- The Vibe of Vegas - http://listen.livestreamingservice.com/181-vibe_128k.mp3
+- 90's Dance - http://listen.livestreamingservice.com/181-90sdance_128k.mp3
+- Techno Club - http://listen.livestreamingservice.com/181-technoclub_128k.mp3
 
 ### Easy Listening
-The Breeze - http://listen.livestreamingservice.com/181-breeze_128k.mp3
-True Blues - http://listen.livestreamingservice.com/181-blues_128k.mp3
-Classical Guitar - http://listen.livestreamingservice.com/181-classicalguitar_128k.mp3
-Classical Jazz - http://listen.livestreamingservice.com/181-classicaljazz_128k.mp3
-Vocal Jazz - http://listen.livestreamingservice.com/181-vocals_128k.mp3
-BeBop Jazz - http://listen.livestreamingservice.com/181-bebop_128k.mp3
-Fusion Jazz - http://listen.livestreamingservice.com/181-fusionjazz_128k.mp3
-Trance Jazz - http://listen.livestreamingservice.com/181-trancejazz_128k.mp3
-Classical Music - http://listen.livestreamingservice.com/181-classical_128k.mp3
-Acid Jazz - http://listen.livestreamingservice.com/181-acidjazz_128k.mp3
+- The Breeze - http://listen.livestreamingservice.com/181-breeze_128k.mp3
+- True Blues - http://listen.livestreamingservice.com/181-blues_128k.mp3
+- Classical Guitar - http://listen.livestreamingservice.com/181-classicalguitar_128k.mp3
+- Classical Jazz - http://listen.livestreamingservice.com/181-classicaljazz_128k.mp3
+- Vocal Jazz - http://listen.livestreamingservice.com/181-vocals_128k.mp3
+- BeBop Jazz - http://listen.livestreamingservice.com/181-bebop_128k.mp3
+- Fusion Jazz - http://listen.livestreamingservice.com/181-fusionjazz_128k.mp3
+- Trance Jazz - http://listen.livestreamingservice.com/181-trancejazz_128k.mp3
+- Classical Music - http://listen.livestreamingservice.com/181-classical_128k.mp3
+- Acid Jazz - http://listen.livestreamingservice.com/181-acidjazz_128k.mp3
 
 ### Comedy
-Comedy Club - http://listen.livestreamingservice.com/181-comedy_128k.mp3
+- Comedy Club - http://listen.livestreamingservice.com/181-comedy_128k.mp3
