@@ -6,6 +6,7 @@ Radio streams that can be scrobbled by last.fm. I use an app [Radium](http://cat
 - Radium - http://catpigstudios.com
 
 #### Windows
+- MusicBee - https://getmusicbee.com/
 
 #### iOS
 - Radium - http://catpigstudios.com
