@@ -1,5 +1,5 @@
 # scrobbleable-streams
-Radio streams that can be scrobbled by last.fm. I use an app [Radium](http://catpigstudios.com) for Mac and iOS. 
+I've been trying to put together a list of stations that scrobble radio tracks really well, along with a list of applications that will actually do this task. I'm not sure why this seems to be such a pain, but there are only a few apps that will actually scrobble tracks to last.fm properly.
 
 ## Radio Scrobbling Apps
 #### Mac
