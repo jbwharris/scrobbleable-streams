@@ -12,6 +12,7 @@ I'm more than willing to accept merge requests for this project as well, so if y
 
 #### iOS
 - Radium - http://catpigstudios.com
+- MusiCharts - https://apps.apple.com/us/app/musicharts-radio-player/id1360852146
 
 #### Android
 - Replaio - https://play.google.com/store/apps/details?id=com.hv.replaio
