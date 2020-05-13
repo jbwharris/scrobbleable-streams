@@ -5,10 +5,12 @@ I'm more than willing to accept merge requests for this project as well, so if y
 
 ## Radio Scrobbling Apps
 #### Mac
-- Radium - http://catpigstudios.com
+- DeaDBeeF - https://deadbeef.sourceforge.io/ (Scrobbling works in 1.8.2, though seems to be broken in 1.8.3 for Mac/Linux)
+- Radium - http://catpigstudios.com (Doesn't work in Catalina, only Mojave and lower)
 
 #### Windows
 - MusicBee - https://getmusicbee.com/
+- DeaDBeeF - https://deadbeef.sourceforge.io/ (Scrobbling works in 1.8.2, though seems to be broken in 1.8.3)
 
 #### iOS
 - Radium - http://catpigstudios.com
