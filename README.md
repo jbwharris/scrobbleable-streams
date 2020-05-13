@@ -1,4 +1,4 @@
-# scrobbleable-streams
+# Scrobble Radio Streams to Last.FM
 I've been trying to put together a list of stations that scrobble radio tracks really well, along with a list of applications that will actually do this task. I'm not sure why this seems to be such a pain, but there are only a few apps that will actually scrobble tracks to last.fm properly. 
 
 I'm more than willing to accept merge requests for this project as well, so if you have suggestions for apps or stations to add, just let me know.
