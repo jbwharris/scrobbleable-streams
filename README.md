@@ -27,6 +27,7 @@ I'm more than willing to accept merge requests for this project as well, so if y
 - WERS (Boston, MA) - http://marconi.emerson.edu:8000/wers
 - WITR (Rochester, NY) - http://streaming.witr.rit.edu:8000/witr-mp3-192.m3u
 - Radio X (Manchester, UK) - http://vis.media-ice.musicradio.com/RadioXManchesterMP3
+- QCIndie Regina - https://ssl.aloncast.com:1516/;type=mp3
 
 ## Eclectic Stations
 - Resonance FM (London, UK) - http://stream.resonance.fm:8000/resonance-extra.m3u
