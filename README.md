@@ -28,6 +28,9 @@ I'm more than willing to accept merge requests for this project as well, so if y
 - WITR (Rochester, NY) - http://streaming.witr.rit.edu:8000/witr-mp3-192.m3u
 - Radio X (Manchester, UK) - http://vis.media-ice.musicradio.com/RadioXManchesterMP3
 - QCIndie Regina - https://ssl.aloncast.com:1516/;type=mp3
+- XPN2 Philiadelphia - http://xpn2lo.streamguys.net/
+- 829 Radio Indie - https://14553.live.streamtheworld.com/SP_R3424078_SC
+- Birch Street Radio - https://onlineradiobox.com/json/ca/birchstreet/play
 
 ## Eclectic Stations
 - Resonance FM (London, UK) - http://stream.resonance.fm:8000/resonance-extra.m3u
@@ -82,23 +85,6 @@ I listen to a few of these stations, but all the Big R Radio stations scrobble w
 - Big R Radio - 90s Alternative - http://bigrradio.com/iradio/90saltHI.pls
 - Big R Radio - Altenative Rock - http://bigrradio.com/iradio/altrockHI.pls
 - Big R Radio - Classic Rock - http://bigrradio.com/iradio/classicrock.pls
-
-### Christmas Stations
-- Big R Radio - Christmas Classics - http://bigrradio.com/iradio/xmas-classics.pls
-- Big R Radio - Rockin Christmas - http://bigrradio.com/iradio/xmas-rock.pls
-- Big R Radio - Top 40 Christmas - http://bigrradio.com/iradio/xmas-top40.pls
-- Big R Radio - Christmas Country - http://bigrradio.com/iradio/xmas-country.pls
-
-### Country
-- Big R Radio - Classic Country - http://bigrradio.com/iradio/classiccountry.pls
-- Big R Radio - Star Country - http://bigrradio.com/iradio/countryHI.pls
-
-### Soft | Office Friendly
-- Big R Radio - 70s FM - http://bigrradio.com/iradio/70sHI.pls
-- Big R Radio - 80s Lite - http://bigrradio.com/iradio/80sliteHI.pls
-- Big R Radio - Christian Hits - http://bigrradio.com/iradio/1faithhits.pls
-- Big R Radio - Erin's Chill - http://bigrradio.com/iradio/erinschill.pls
-- Big R Radio - Warm 101.6 - http://bigrradio.com/iradio/softHI.pls
 
 ### Top 40
 - Big R Radio - 100.7 The Mix - http://bigrradio.com/iradio/1007HI.pls
