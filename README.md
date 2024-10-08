@@ -1,3 +1,6 @@
+# Checkout ScrobbleRadio
+I put this repo together awhile back with the aim of finding radio stations that could be scrobbled easily. Well since then I decided to develop a new app for this express purpose, called [ScrobbleRadio](https://scrobblerad.io). Paired with [Web Scrobbler](https://web-scrobbler.com), it's the best way to scrobble radio streams in 2024. 
+
 # Scrobble Radio Streams to Last.FM
 I've been trying to put together a list of stations that scrobble radio tracks really well, along with a list of applications that will actually do this task. I'm not sure why this seems to be such a pain, but there are only a few apps that will actually scrobble tracks to last.fm properly. 
 
